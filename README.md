@@ -14,3 +14,9 @@ Zenith bot is a Minecraft bot built using Mineflayer.
 * Detect issues and react accordingly—either to fix the problem or stop its own operation.
 * Keep all systems as dynamic as possible.
 * Maintain self-sustainability wherever feasible.
+
+## Versions
+
+### 0.0.0
+* Initial release.
+* Added README.md information.
